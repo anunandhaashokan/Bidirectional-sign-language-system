@@ -84,3 +84,6 @@ pip install -r requirements.txt
 
 2. Run the project:
 python Gesture.py
+
+## Demo Video
+[watch project Demo] https://drive.google.com/file/d/1mWtfuPkx_bv5bn0ctpRu6Y8BnS6Cr5eQ/view?usp=drive_link
